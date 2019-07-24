@@ -1,0 +1,62 @@
+
+h6 {
+   color: whitesmoke;
+   font-size: 20px;
+   text-align: justify;
+   border: 5px solid white;
+   padding: 10px;
+   font-family: 'Gaegu', cursive;
+}
+
+#container {
+   display: grid;
+   grid-template-columns:1fr 350px  1fr ;
+}
+
+h1 {
+   text-align: center
+}
+h1 a {
+   color: white;
+   font-size: 60px;
+   align: justify;
+   border: 5px solid white;
+   padding: 10px;
+   font-family: 'Gaegu', cursive;
+}
+h3 {
+   padding: 200px 100px;  text-align:center
+}
+
+#target {
+   text-align: center
+}
+
+
+
+li {
+   color: yellow;
+   font-size: 50px;
+   text-align: center;
+   font-family: 'Gaegu', cursive;
+}
+
+li a {
+   color: yellow;
+   text-align: center;
+}
+body {
+    background-image: url("happy.png");
+    background-size: auto;
+ }
+
+ #target {
+    color: whitesmoke;
+    text-align: unset;
+    font-family: 'Gaegu', cursive;
+    font-family: 'Do Hyeon', sans-serif;
+ }
+
+ #target a {  
+    color: yellow
+ }
